@@ -13,13 +13,13 @@ A C# console application for managing a garage with different vehicle types (mot
 ## How to Run
 
 1. Open `Garage.sln` in Visual Studio
-2. Set `Ex03.ConsoleUI` as startup project
+2. Set `ConsoleUI` as startup project
 3. Press F5 to run
 
 ## Project Structure
 
-- **Ex03.GarageLogic** - Core business logic (DLL)
-- **Ex03.ConsoleUI** - Console interface (EXE)
+- **GarageLogic** - Core business logic (DLL)
+- **ConsoleUI** - Console interface (EXE)
 
 ## Requirements
 
