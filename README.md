@@ -25,7 +25,3 @@ A C# console application for managing a garage with different vehicle types (mot
 
 - Visual Studio
 - .NET Framework
-
----
-
-*Object-Oriented Programming course project*
